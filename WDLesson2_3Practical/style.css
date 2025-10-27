@@ -13,6 +13,7 @@ img{
                 3) background image to  linear-gradient(to right, blue, white)
 */
 #bannerSeparator[
+  height:[
   height:10px;
   border: 0px soild white
   background-image:linear- gradient(right, blue, white )
