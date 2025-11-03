@@ -7,14 +7,14 @@
                 using rgb( )
 */
 .banner {
-  background-color: blue(135, 206, 250); /* Example: light sky blue */
+  background-color: rgb(135, 206, 250); /* Example: light sky blue */
 }
 
 /* Challenge 10: Change the background color for all elements with a class of subbanner.  Choose a color
                 using a hexdecimal value. 
 */
 .subbanner {
-  background-color:orange; /* Example: light orange */
+  background-color: orange ; /* Example: light orange */
 }
 
 /* Challenge 11: Change the radius of the border to 6px and height to 200px for all images inside of all 
