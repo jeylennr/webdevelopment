@@ -1,2 +1,27 @@
 /* Challenge 2: Use w3SchoolsMockUp.png to help you write the necessary CSS rules.
-   Hint: Remember all the fundamental CSS rules when working with flexboxes */
+   Hint: Remember all the fundamental CSS rules when working with flexboxes */margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  background-color: #009688;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  min-height: 100vh;
+}
+
+.sidebar {
+  background-color: #f1f1f1;
+  width: 200px;
+  padding: 20px;
+}
+
+.main {
+  flex: 1;
+  padding: 20px;
+}
